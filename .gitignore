@@ -1,4 +1,7 @@
+tests/
+**/*.test.ts
 **/*.spec.ts
+coverage/
 dist/
 .env
 .env.local
