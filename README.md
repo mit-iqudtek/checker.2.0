@@ -1,0 +1,1 @@
+This repository is a HelioAudit Quick Test fixture: it exercises `.gitignore` rules and removal of hidden `.github` content from scans. Dummy credentials and vulnerability patterns live only in tracked `src/` files; paths under `tests/`, `coverage/`, `dist/`, and `.github/` must not appear in findings. Scan URL: `https://github.com/OWNER/helioaudit-scan-test.git`.

@@ -1,0 +1,9 @@
+{
+  "name": "helioaudit-scan-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HelioAudit scanner test fixture",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
